@@ -1,0 +1,9 @@
+﻿{
+    "name":  "Pedro GoLive",
+    "version":  "0.1.0",
+    "vencordPath":  "C:\\Users\\xpedr\\AppData\\Local\\PedroGoLive\\Vencord",
+    "proxy":  {
+                  "mode":  "local",
+                  "url":  "socks5://127.0.0.1:10808"
+              }
+}
